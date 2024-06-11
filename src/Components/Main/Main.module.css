@@ -1,0 +1,31 @@
+.divContainerHeader{
+    text-align: center;
+}
+
+.containerCalculo{
+    display: block;
+    text-align: center;
+}
+
+.inputHeader {
+    padding: 22px;
+    border-radius: 14px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+.inputDados{
+    margin-left: 10px;
+    padding: 10px;
+    border-radius: 14px;
+    text-align: center;
+}
+
+.inputDados::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+}
+
+button{
+    margin-top: 24px;
+}
